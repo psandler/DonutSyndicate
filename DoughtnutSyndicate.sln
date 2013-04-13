@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoughtnutSyndicate.Presentation.Web", "DoughtnutSyndicate\DoughtnutSyndicate.Presentation.Web.csproj", "{2E2AFC15-6EEB-4596-AD88-BDBF3ED2E61E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoughtnutSyndicate.Tests", "DoughtnutSyndicate.Tests\DoughtnutSyndicate.Tests.csproj", "{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2AFC15-6EEB-4596-AD88-BDBF3ED2E61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2AFC15-6EEB-4596-AD88-BDBF3ED2E61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2AFC15-6EEB-4596-AD88-BDBF3ED2E61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2AFC15-6EEB-4596-AD88-BDBF3ED2E61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
