@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoughtnutSyndicate.Presenta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoughtnutSyndicate.Tests", "DoughtnutSyndicate.Tests\DoughtnutSyndicate.Tests.csproj", "{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonutSyndicate.Domain", "DonutSyndicate.Domain\DonutSyndicate.Domain.csproj", "{0701CA87-56B2-4B04-996E-B6EF198B0E44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34D5F984-E4AD-4F20-9D12-9C4A67C3FA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0701CA87-56B2-4B04-996E-B6EF198B0E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0701CA87-56B2-4B04-996E-B6EF198B0E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0701CA87-56B2-4B04-996E-B6EF198B0E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0701CA87-56B2-4B04-996E-B6EF198B0E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
